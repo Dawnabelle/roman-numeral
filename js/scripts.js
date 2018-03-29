@@ -1,34 +1,33 @@
 // var numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 // var letters = ['I', 'V', 'X', 'L', 'C', 'D', 'M'];
 // var inputNumber = $("#inputNumber").val();
-// var romanNumber = parseInt(inputNumber);
+//
 // var result = numerals(inputNumber);
 
 
 function latinConveter(input){
-  var result = "";
-  if (input === 1){
-    result = "i";
-  } else if (input === 2){
-    result = "ii";
-  } else if (input === 3){
-    result = "iii";
+  var inputNumber = parseInt(input);
+  var romanNumberal = "";
+
+  if (input < 4){
+    for (var i = 0; i < input; i++) {
+      romanNumberal += "I";
+    }
   } else if (input === 4){
-    result = "iv";
+    romanNumberal = "IV";
   } else if (input === 5){
-    result = "v";
-  } else if (input === 6){
-    result = "vi";
-  } else if (input === 7){
-    result = "vii";
-  } else if (input === 8){
-    result = "viii";
+    romanNumberal = "v";
+  } else if (input > 5 && input < 9){
+    romanNumberal += "V";
+    for (var i = 0; i < input-5; i++) {
+      romanNumberal += "I";
+    }
   } else if (input === 9){
-    result = "ix";
+    romanNumberal = "IX";
   } else if (input === 10){
-    result = "x";
+    romanNumberal = "X";
   }
-  return result;
+  return romanNumberal;
   console.log("whatever");
   }
 
