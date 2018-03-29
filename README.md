@@ -32,12 +32,11 @@ _Feel free to email either or us at [juliajessicasher@gmail.com](mailto:juliajes
 | Behavior | Input | Output |
 | :-------------     | :------------- | :------------- |
 | The program converts a single digit number to a single letter | 1 | I |
+| The program converts a single digit number to a single letter | 2 | II |
+| The program converts a single digit number to a single letter | 4 | IV |
+| The program converts a single digit number to a single letter | 5 | V |
+| The program converts a single digit number to a single letter | 1 | VI |
 | The program converts double digit number to a single letter | 10 | X |
-| The program converts a triple digit number to a single letter | 100 | C |
-| The program converts a single digit number to multiples of the same letter | 2 | II |
-| The program converts a single digit number to multiples of any letter | 6 | VI |
-| The program uses subtraction when 4's and 9's are involved | 5-1 | IV |
-| The program returns an error when the input is not between 1 and 3,999 | 0 | Enter a number 1 - 3,999 |
 
 
 
