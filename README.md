@@ -1,12 +1,12 @@
-# _Julia Sheremet & Matthew Nardoni_
+# _ Dawn Mott & Matthew Nardoni_
 
 #### _Assignment for Epicodus_
 
-#### By: _**Julia Sheremet & Matthew Nardoni**_
+#### By: _** Dawn Mott & Matthew Nardoni**_
 
 ## Description
 
-_This webpage is designed to tell you whether a year is a leap year or not._
+_This website will take a number and convert it to roman numerals._
 
 ## Setup/Installation Requirements
 
@@ -16,7 +16,7 @@ _This webpage is designed to tell you whether a year is a leap year or not._
 
 ## Known Bugs
 
-_Feel free to email either or us at [juliajessicasher@gmail.com](mailto:juliajessicasher@gmail.com) or [nardoni59@gmail.com](mailto:nardoni59@gmail.com) if you run into any issues or have questions, ideas or concerns. Please enjoy and feel free to share your opinion, constructive criticism, or comments of my work._
+_Feel free to email either or us at [dawnrparty@gmail.com](mailto:dawn@yourface.com) or [nardoni59@gmail.com](mailto:nardoni59@gmail.com) if you run into any issues or have questions, ideas or concerns. Please enjoy and feel free to share your opinion, constructive criticism, or comments of my work._
 
 ## Technologies Used
 
@@ -35,14 +35,14 @@ _Feel free to email either or us at [juliajessicasher@gmail.com](mailto:juliajes
 | The program converts a single digit number to a single letter | 2 | II |
 | The program converts a single digit number to a single letter | 4 | IV |
 | The program converts a single digit number to a single letter | 5 | V |
-| The program converts a single digit number to a single letter | 1 | VI |
+| The program converts a single digit number to a single letter | 6 | VI |
 | The program converts double digit number to a single letter | 10 | X |
 
 
 
 ### License
 
-Copyright (c) 2018 ****_Julia Sheremet_****
+Copyright (c) 2018 ****_Dawn Mott and Matt Nardoni_****
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
