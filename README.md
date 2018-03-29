@@ -1,4 +1,4 @@
-# _ Dawn Mott & Matthew Nardoni_
+# Dawn Mott & Matthew Nardoni
 
 #### _Assignment for Epicodus_
 
